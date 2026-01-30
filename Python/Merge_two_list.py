@@ -1,12 +1,11 @@
-list1 = [1,2,3,4,5]
-list2 = [6,7,8,9,10]
-
+lst1 = [23,54,76,56,91]
+lst2 = [11,65,87,37,65]
 merged = []
 
-for i in list1:
+for i in lst1:
     merged.append(i)
 
-for j in list2:
+for j in lst2:
     merged.append(j)
 
 print(merged)
