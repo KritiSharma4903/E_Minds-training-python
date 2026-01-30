@@ -22,7 +22,6 @@ class Student:
 # s = Student()
 s = Student("kriti", 5, 38)
 
-
 s.add_marks(78)
 
 s.display_details()

@@ -1,3 +1,5 @@
+# Parse and display data from a **JSON file**
+
 import json
 
 with open("Data.json","r")as file:
