@@ -1,2 +1,13 @@
+str = input("Enter a string: ")
+
 for i in range(5):
-    print('Hello')
+    print(str)
+   
+
+
+
+
+
+# 
+#  for i in range(5):
+#     print('Hello')
